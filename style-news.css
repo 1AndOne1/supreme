@@ -1,16 +1,16 @@
 @font-face {
-    font-family: 'Space Mono';
+    font-family: 'Space-mono';
     font-style: normal;
     font-weight: 400;
-    src: url('../fonts/space-mono-v12-latin-regular.woff'),
-        url('../fonts/space-mono-v12-latin-regular.woff2');
+    src: url(./font/SpaceMono-Regular.ttf);
+
 }
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Space Mono', sans-serif;
+    font-family: 'Space-mono', sans-serif;
 }
 
 a {
